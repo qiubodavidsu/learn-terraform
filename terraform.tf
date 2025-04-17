@@ -4,7 +4,7 @@ terraform {
     organization = "TRACEBoard-NZ" 
 
     workspaces { 
-      name = "learn-terraform-sentinel" 
+      name = "learn-terraform" 
     } 
   } 
 }
